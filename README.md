@@ -60,7 +60,7 @@ Undergrad student pursuing Mathematics and Computing (MnC). I spend most of my f
 ### GitHub Status & Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=4epiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=4epiz&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
 ---
