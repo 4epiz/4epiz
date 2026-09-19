@@ -15,7 +15,7 @@ Undergrad student pursuing Mathematics and Computing (MnC). I spend most of my f
       <h4>Programming Languages</h4>
       <img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" /><br/><br/>
       • <b>Intermediate:</b> JavaScript, Python<br/>
-      • <b>Learning:</b> C++
+      • <b>Learning:</b> C
     </td>
     <td width="33%" valign="top">
       <h4>Runtimes & Engines</h4>
